@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:onboard_animation/components/landed_content.dart';
-import 'package:onboard_animation/components/sing_up_form.dart';
+import 'landed_content.dart';
+import 'sing_up_form.dart';
 
 class OnboardContent extends StatefulWidget {
   const OnboardContent({super.key});
